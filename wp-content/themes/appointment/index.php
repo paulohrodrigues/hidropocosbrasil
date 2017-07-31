@@ -12,6 +12,7 @@ get_template_part('index','banner'); ?>
 					// Start the Loop.
 						while ( have_posts() ) : the_post();
 							get_template_part('content',''); 
+							echo "teste";
 						endwhile; 
 					 endif; 
 					// Previous/next page navigation.

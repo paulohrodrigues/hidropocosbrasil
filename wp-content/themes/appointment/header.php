@@ -12,7 +12,6 @@
 	<?php } ?>
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php wp_head(); ?>
-	zxcccccccccccccc
 	</head>
 	<body <?php body_class(); ?> >
 
